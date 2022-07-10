@@ -1,6 +1,6 @@
 # StockWatch: Retail Shelf Stock-out Identification using Object Detection
 
-![Retail Shelf](imgs/retail_shelf.jpg "Retail Shelf")
+![Retail Shelf](imgs/retail_shelf1.jpg "Retail Shelf")
 
 * Out of stock is one of the major issues faced in many retail outlets and also a substantial loss concern in terms of the revenue. According to a study conducted by the IHL group, the total loss of sales due to out of stock amounts to over $1 trillion. 
 * In this project, we addressed this issue by developing methods for detecting empty/semi-empty spots in shelves in real-life settings. 
